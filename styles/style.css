@@ -207,6 +207,12 @@ nav ul li a {
     border-radius: var(--itemBorderRadius);
 }
 
+/* div .service:hover {
+    position: relative;
+    transform: translate(30px, 30px);
+    
+} */
+
 .service h4 {
     margin: 1.5rem 0;
     font-weight: 500;
@@ -441,3 +447,4 @@ footer {
 .footer-icon svg:hover {
     fill: #000;
 }
+
